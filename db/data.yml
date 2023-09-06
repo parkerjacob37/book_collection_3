@@ -1,0 +1,26 @@
+
+---
+ar_internal_metadata:
+  columns:
+  - key
+  - value
+  - created_at
+  - updated_at
+  records: 
+  - - environment
+    - development
+    - 2023-08-25 16:32:52.375919000 Z
+    - 2023-08-25 16:32:52.375919000 Z
+
+---
+books:
+  columns:
+  - id
+  - title
+  - created_at
+  - updated_at
+  records: 
+  - - 2
+    - The Martian
+    - 2023-09-01 14:24:11.126615000 Z
+    - 2023-09-01 14:24:11.126615000 Z
